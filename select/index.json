@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ドライブ・スペード・クレイジー",
+  "base_artist": "Edel Note",
+  "createdAt": "2026-03-24T13:48:32.433062Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドライブ・スペード・クレイジー",
+      "artist": "Edel Note",
+      "has_synced": false,
+      "path": "select/pl_01_ドライブ・スペード・クレイジー_Edel_Note.txt"
+    }
+  ]
+}
